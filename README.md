@@ -1,3 +1,8 @@
+To successfully run the test please to the following in the terminal:
+1. Run `yarn install` to install all dependencies.
+2. Run 'yarn create wdio .' to install WebDriver.
+3. Run "yarn wdio" in order to execute the test.
+
 # TA-Bootcamp-E2E
 
 Develop E2E automated JS tests for https://www.newegg.com
